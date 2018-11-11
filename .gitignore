@@ -2,16 +2,17 @@
 *.classpath
 *.class
 *.log
+*.bat
+*.gradle
+*gradlew
 **/.gradle/
 **/.settings/
 **/bin
 **/build
 **/temp/
-**/.vscode
-*.DS_Store
-**/node_modules
-**/package-lock.json
-**/aws.properties
-.gradle/
+**/gradle/
+**/.gradle/
+
+
 !build.gradle
 

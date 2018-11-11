@@ -2,7 +2,6 @@
 *.classpath
 *.class
 *.log
-*.bat
 *.gradle
 *gradlew
 **/.gradle/
@@ -10,8 +9,8 @@
 **/bin
 **/build
 **/temp/
-**/gradle/
 **/.gradle/
 
-!build.gradle
+.bat
+.gradle
 

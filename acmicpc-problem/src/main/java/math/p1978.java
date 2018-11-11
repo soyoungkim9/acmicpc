@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class p1978 {
     public static boolean isPrime(int n){
         
-        if(n <= 1) return false;
+        if(n <= 1) return false; 
         
         if(n != 2 && n%2 == 0) return false;
         

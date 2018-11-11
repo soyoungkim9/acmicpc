@@ -13,6 +13,5 @@
 **/gradle/
 **/.gradle/
 
-
 !build.gradle
 
